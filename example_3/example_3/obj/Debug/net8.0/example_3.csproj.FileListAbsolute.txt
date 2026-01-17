@@ -1,0 +1,14 @@
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.AssemblyInfoInputs.cache
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.AssemblyInfo.cs
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.csproj.CoreCompileInputs.cache
+C:\Users\Cocosik\Documents\example_3\example_3\bin\Debug\net8.0\example_3.exe
+C:\Users\Cocosik\Documents\example_3\example_3\bin\Debug\net8.0\example_3.deps.json
+C:\Users\Cocosik\Documents\example_3\example_3\bin\Debug\net8.0\example_3.runtimeconfig.json
+C:\Users\Cocosik\Documents\example_3\example_3\bin\Debug\net8.0\example_3.dll
+C:\Users\Cocosik\Documents\example_3\example_3\bin\Debug\net8.0\example_3.pdb
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.dll
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\refint\example_3.dll
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.pdb
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\example_3.genruntimeconfig.cache
+C:\Users\Cocosik\Documents\example_3\example_3\obj\Debug\net8.0\ref\example_3.dll
